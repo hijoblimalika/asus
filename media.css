@@ -92,6 +92,17 @@
         margin-top: 8%;
         margin-left: 45%;
     }
+    .kam{
+        display: none;
+    }
+    .idiw{
+        margin-top: 18%;
+        display: block;
+    }
+    .ovqat {
+        width: 80%;
+        margin-left: 25%;
+    }
 }
 @media screen and (max-width:600px){
     .icn i{
@@ -191,6 +202,14 @@
         width: 120%;
         margin-top: 8%;
         margin-left: 125%;
+    }
+    .idiw{
+        margin-top: 88%;
+        display: block;
+    }
+    .ovqat {
+        width: 130%;
+        margin-left: 55%;
     }
 
 }
