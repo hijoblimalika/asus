@@ -44,3 +44,69 @@ nav img{
     width: 100%;
     height: 100vh;
 }
+.reklama{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.reklama1{
+    width: 50%;
+    height: 60vh;
+}
+.reklama1 img{
+    width: 55%;
+    height: 65%;
+    margin-left: 15%;
+    margin-top: 5%;
+
+}
+.reklama2{
+    width: 50%;
+    height: 60vh;
+} 
+.reklama2 img{
+    width: 55%;
+    height: 65%;
+    margin-left: 15%;
+    /* margin-top: 15%; */
+
+}
+.reklama1 h2{
+    color: dodgerblue;
+    margin-left: 16%;
+    font-size: 30px;
+}
+.reklama1 b {
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 25%;
+
+}
+.reklama1 p {
+    margin-left: 35%;
+    margin-top: 1%;
+}
+.reklama1 p:hover{
+    color: blue;
+    cursor: pointer;
+}
+.reklama2 h2{
+    color: dodgerblue;
+    margin-left: 16%;
+    font-size: 30px;
+    margin-top: 1%;
+}
+.reklama2 b {
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 15%;
+
+}
+.reklama2 p {
+    margin-left: 35%;
+    margin-top: 1%;
+}
+.reklama2 p:hover{
+    color: blue;
+    cursor: pointer;
+}

@@ -16,6 +16,64 @@
         margin-left: 350px;
     }
 }
+@media screen and (max-width:700px){
+    .nav_top img{
+        width: 120%;
+    }
+    .reklama{
+        display: block;
+    }
+    .reklama1 img{
+        width: 110%;
+        height: 60vh;
+        margin-left: 65%;
+    }
+    .reklama1 h2{
+        width: 150%;
+        font-size: 35px;
+        margin-top: 5%;
+        margin-left: 60%;
+    }
+    .reklama1 b{
+        font-size: 20px;
+        margin-top: 5%;
+        margin-left: 60%;
+        display: none;
+    }
+    .reklama1 p{
+        width: 150%;
+        font-size: 20px;
+        margin-top: 5%;
+        margin-left: 100%;
+    }
+    .reklama2{
+        margin-top: 30%;
+    }
+    .reklama2 img{
+        width: 110%;
+        height: 60vh;
+        margin-left: 65%;
+    }
+    .reklama2 h2{
+        width: 150%;
+        font-size: 35px;
+        margin-top: 5%;
+        margin-left: 60%;
+    }
+    .reklama2 b{
+        font-size: 20px;
+        margin-top: 5%;
+        margin-left: 60%;
+        display: none;
+    }
+    .reklama2 p{
+        width: 150%;
+        font-size: 20px;
+        margin-top: 5%;
+        margin-left: 100%;
+    }
+
+}
 @media screen and (max-width:600px){
     .icn i{
         font-size: 25px;
@@ -44,5 +102,42 @@
     .nav_top img{
         margin-top: 12%;
         width: 235%;
+    }
+    .nav_top img{
+        width: 255%;
+    }
+    .reklama1 img{
+        width: 250%;
+        height: 70vh;
+        margin-left: 100%;
+        margin-top: 5%;
+    }
+    .reklama1 h2{
+        width: 420%;
+        font-size: 60px;
+    }
+    .reklama1 p{
+        font-size: 40px;
+        margin-left: 190%;
+    }
+    .reklama2{
+        margin-top: 80%;
+    }
+    .reklama2 img{
+        width: 280%;
+        height: 70vh;
+        margin-left: 80%;
+        margin-top: 5%;
+    }
+    .reklama2 h2{
+        width: 420%;
+        font-size: 60px;
+        margin-left: 95%;
+    }
+    .reklama2 p{
+        width: 150%;
+        font-size: 40px;
+        margin-top: 5%;
+        margin-left: 180%;
     }
 }
