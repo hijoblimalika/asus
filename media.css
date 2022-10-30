@@ -79,6 +79,19 @@
     .desktop1 img{
         width: 260%;
     }
+    .container{
+        display: block;
+        margin-top: 35%;
+    }
+    .box img{
+        width: 260%;
+        height: 100%;
+    }
+    .box h2{
+        width: 120%;
+        margin-top: 8%;
+        margin-left: 45%;
+    }
 }
 @media screen and (max-width:600px){
     .icn i{
@@ -90,6 +103,19 @@
     }
     .desktop1 img{
         width: 300%;
+    }
+    .container{
+        display: block;
+        margin-top: 40%;
+    }
+    .box img{
+        width: 300%;
+        height: 100%;
+    }
+    .box h2{
+        width: 120%;
+        margin-top: 8%;
+        margin-left: 55%;
     }
 }
 @media screen and (max-width:415px){
@@ -152,6 +178,19 @@
     .desktop1 img{
         width: 520%;
         margin-top: 200%;
+    }
+    .container{
+        display: block;
+        margin-top: 160%;
+    }
+    .box img{
+        width: 518%;
+        height: 150%;
+    }
+    .box h2{
+        width: 120%;
+        margin-top: 8%;
+        margin-left: 125%;
     }
 
 }
