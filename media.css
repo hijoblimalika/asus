@@ -103,6 +103,11 @@
         width: 80%;
         margin-left: 25%;
     }
+    .futr_img{
+        width: 130%;
+        margin-top: 28%;
+    }
+
 }
 @media screen and (max-width:600px){
     .icn i{
@@ -211,5 +216,25 @@
         width: 130%;
         margin-left: 55%;
     }
-
+    .futr_img{
+        width: 255%;
+        height: 300vh;
+        margin-top: 40%;
+    }
+    .futr1{
+        display: none;
+    }
+    .futr{
+        transform: translateY(-200%);
+    }
+    .futr11 {
+        margin-left: 50%;
+        margin-top: 5%;
+        font-size: 45px;
+    }
+    .futr_icon i{
+        transform: translateY(-555%);
+        display: none
+        
+    }
 }
